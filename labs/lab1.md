@@ -14,4 +14,4 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
 
 3. Follow GitHub's directions for cloning: https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/
 
-3. Finally, post a link to your repository on GitHub, under the "Labs" project. The title of your post will be "Lab1, your first and last name".
+3. Finally, post a link to your repository on GitHub, under the "Labs, ITMD-362" project. The title of your post will be "Lab1, your first and last name".
