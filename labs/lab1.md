@@ -4,7 +4,7 @@ For this lab, you will fork, clone, and commit and push changes to a
 remote GitHub repository. Follow the steps below exactly in order to receive full credit.
 
 1. While logged into your GitHub account in your web browser, point your browser to
-   https://github.com/dkriegls/itmd-362-fall2017/tree/master/labs and click the Fork button. You will then see
+   https://github.com/dkriegls/itmd-362-fall2017/ and click the Fork button. You will then see
    that you have forked the Labs repository from `dkriegls/itmd-362-fall2017/tree/master/labs`
 
 2. Once you have forked your own copy of the repository, go to your command line and change to
